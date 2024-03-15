@@ -41,7 +41,7 @@ body {
 .about-description {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #595959;
   width: 500px;
@@ -55,7 +55,7 @@ body {
 .title {
   font-style: normal;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 26px;
   line-height: 27px;
   color: #000;
   margin-bottom: 10px;
@@ -118,7 +118,7 @@ body {
 .work-position {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 20px;
   color: #000;
   margin-bottom: 10px;
@@ -127,7 +127,7 @@ body {
 .organisation {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 20px;
   color: #fb6d3a;
 }
@@ -135,7 +135,7 @@ body {
 .period {
   font-style: normal;
   font-weight: 400;
-  font-size: 12px;
+  font-size: 18px;
   line-height: 15px;
   color: #a8a8a8;
   margin-bottom: 10px;
@@ -157,7 +157,7 @@ body {
 .work-list-item {
   font-style: normal;
   font-weight: 400;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #595959;
 }
@@ -170,7 +170,7 @@ body {
 .education-name {
   font-style: normal;
   font-weight: 700;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 20px;
   color: #fb6d3a;
   margin-bottom: 10px;
@@ -179,7 +179,7 @@ body {
 .education-specialization {
   font-style: normal;
   font-weight: 700;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 17px;
   color: #000;
   margin-bottom: 15px;
@@ -219,13 +219,13 @@ body {
   color: #fff;
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   margin-right: 10px;
 }
 
 .sidebar-parh {
-  font-size: 14px;
+  font-size: 18px;
   padding: 0;
   margin: 0;
   color: #fff;
@@ -235,7 +235,7 @@ body {
   color: #fff;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   text-decoration: none;
 }
@@ -251,7 +251,7 @@ body {
   color: #fff;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
 }
 .soft-skills-list {
